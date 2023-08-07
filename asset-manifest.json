@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-tears/static/css/main.b9bc93a5.css",
-    "main.js": "/react-tears/static/js/main.cc85d9cd.js",
+    "main.js": "/react-tears/static/js/main.2c0d67bf.js",
     "static/js/787.e75841b5.chunk.js": "/react-tears/static/js/787.e75841b5.chunk.js",
     "index.html": "/react-tears/index.html",
     "main.b9bc93a5.css.map": "/react-tears/static/css/main.b9bc93a5.css.map",
-    "main.cc85d9cd.js.map": "/react-tears/static/js/main.cc85d9cd.js.map",
+    "main.2c0d67bf.js.map": "/react-tears/static/js/main.2c0d67bf.js.map",
     "787.e75841b5.chunk.js.map": "/react-tears/static/js/787.e75841b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9bc93a5.css",
-    "static/js/main.cc85d9cd.js"
+    "static/js/main.2c0d67bf.js"
   ]
 }
